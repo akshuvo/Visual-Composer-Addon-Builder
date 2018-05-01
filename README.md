@@ -5,7 +5,7 @@ Visual Composer Addon Builder/Generator for web developers
 [Start Building Your Addon Here](https://devshuvo.com/addon-generator "Visual Composer Addon Builder")
 
 ## Available Field Type
-*textarea_html
+* textarea_html
 *textfield
 *textarea
 *dropdown
