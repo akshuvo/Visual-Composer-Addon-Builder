@@ -6,17 +6,17 @@ Visual Composer Addon Builder/Generator for web developers
 
 ## Available Field Type
 * textarea_html
-*textfield
-*textarea
-*dropdown
-*attach_image
-*attach_images
-*posttypes
-*colorpicker
-*exploded_textarea
-*widgetised_sidebars
-*textarea_raw_html
-*vc_link
-*checkbox
-*loop
-*css
+* textfield
+* textarea
+* dropdown
+* attach_image
+* attach_images
+* posttypes
+* colorpicker
+* exploded_textarea
+* widgetised_sidebars
+* textarea_raw_html
+* vc_link
+* checkbox
+* loop
+* css
